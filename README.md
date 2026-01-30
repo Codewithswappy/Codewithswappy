@@ -61,16 +61,6 @@ I prefer **shipping real products** over toy demos.
 
 ---
 
-## Selected Projects
-
-| Project | Description |
-|-------|------------|
-| **SkillProof** | Evidence-based developer portfolio platform — *proof over claims* |
-| **SkillDock** | Username-based instant portfolio builder with analytics |
-| **RareUI** | Modern UI components & design patterns |
-| *(more pinned below)* | |
-
----
 
 ## Current Focus
 
