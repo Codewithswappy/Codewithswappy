@@ -1,57 +1,94 @@
-# 👋 Hi, I’m Swapnil Kalambe
+<!-- Header -->
+<h1 align="center">Swapnil Kalambe</h1>
+<p align="center">
+  <b>Full-Stack Developer · UI-Focused Engineer · Product Builder</b>
+</p>
+<p align="center">
+  Building clean, scalable web experiences with a strong focus on UI, performance, and developer experience.
+</p>
 
-I’m a **Full-Stack Developer, Frontend Enthusiast & Creative Problem Solver** currently pursuing BCA with a passion for building intuitive, performant web experiences.
-
-🔭 I focus on clean UI, smooth interactions, and scalable code. My work bridges design and development — from pixel-perfect layouts to maintainable architecture.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Frontend:**  
-HTML · CSS · JavaScript · React.js · Next.js · Tailwind CSS · Framer Motion
-
-**Backend & Tools:**  
-Node.js · Express · MongoDB · REST APIs · Git & GitHub
-
-**Design & UX:**  
-Responsive Design · Interaction Design · Design Systems
+<p align="center">
+  <a href="https://heyyswap.online">Portfolio</a> ·
+  <a href="https://linkedin.com/in/swapnilkalambe4">LinkedIn</a> ·
+  <a href="https://x.com/heyswap">X</a>
+</p>
 
 ---
 
-## 📂 What You’ll Find Here
+## About Me
 
-- 🔹 Personal & guided projects demonstrating best practices  
-- 🔹 UI/UX focused implementations  
-- 🔹 Full-Stack applications with clean structure  
-- 🔹 Reusable components and utilities
+I’m a **BCA student and self-driven developer** who enjoys turning ideas into polished, production-ready products.  
+My work sits at the intersection of **design, engineering, and product thinking**.
 
----
-
-## 📌 Featured Projects
-
-| Project | Brief |
-|--------|-------|
-| **RareUI** | A modern design system and component library (TypeScript & React) |
-| *(add other pinned repos here)* | *(short 1–2 line description)* |
-
-> Projects reflect my emphasis on clarity, performance, and thoughtful interfaces.
+I care deeply about:
+- Clean and readable code
+- Thoughtful UI/UX and micro-interactions
+- Performance, accessibility, and scalability
 
 ---
 
-## 📫 Connect with Me
+## Tech Stack
 
-- 🌐 Portfolio: https://heyyswap.online  
-- LinkedIn: https://linkedin.com/in/swapnilkalambe4  
-- X (Twitter): https://x.com/heyswap  
-- Email: `swapnil@example.com`
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Framer Motion</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js, Express, REST APIs, MongoDB, PostgreSQL</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>Git, GitHub, Prisma, Zod, Auth.js, UploadThing</td>
+</tr>
+<tr>
+<td><b>Design</b></td>
+<td>Responsive Design, Design Systems, UI Consistency</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Fun Fact
+## What I Build
 
-I enjoy exploring new patterns in web animation and optimizing user flows — every millisecond saved is a better experience delivered.
+- ⚡ Developer-focused products & tools  
+- 🎨 UI-heavy web applications  
+- 🧩 Component systems & design systems  
+- 📊 Data-driven and analytics-enabled apps  
+
+I prefer **shipping real products** over toy demos.
 
 ---
 
-Thanks for stopping by 👨‍💻
+## Selected Projects
+
+| Project | Description |
+|-------|------------|
+| **SkillProof** | Evidence-based developer portfolio platform — *proof over claims* |
+| **SkillDock** | Username-based instant portfolio builder with analytics |
+| **RareUI** | Modern UI components & design patterns |
+| *(more pinned below)* | |
+
+---
+
+## Current Focus
+
+- Advanced Next.js (App Router, performance, caching)
+- Building developer SaaS products
+- Improving UX through animation and feedback
+- System design & scalability basics
+
+---
+
+## Philosophy
+
+> *“Good software feels invisible — it just works.”*
+
+I aim to build products that feel intentional, fast, and reliable.
+
+---
+
+<p align="center">
+  <sub>Always learning. Always building.</sub>
+</p>
