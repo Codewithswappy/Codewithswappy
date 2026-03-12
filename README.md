@@ -2,20 +2,28 @@
 <h1 align="center">Swapnil Kalambe</h1>
 
 <p align="center">
-  <a href="https://www.heyyswap.in">
+  <b>Full-Stack Developer · UI-Focused Engineer · Product Builder</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+web+experiences;Focused+on+UI%2C+performance%2C+and+DX;Design+%C3%97+Engineering+%C3%97+Product" />
+</p>
+
+<p align="center">
+ <a href="https://www.heyyswap.in">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/swapnilkalambe4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/heyswap">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/sponsors/Codewithswappy">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
   </a>
 </p>
 
